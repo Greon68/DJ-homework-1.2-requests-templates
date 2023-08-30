@@ -21,5 +21,5 @@ urlpatterns = [
     path('omlet/',omlet),
     path('pasta/',pasta),
     path('buter/',buter),
-    path('hello/',hello),
+
 ]
